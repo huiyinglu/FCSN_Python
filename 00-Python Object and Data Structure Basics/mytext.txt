@@ -1,5 +1,0 @@
-Let's write the first line.
-Add second line.
-This is the third line.
-Finally, we are done!
-Forgot one thing. Let's add one more line...
